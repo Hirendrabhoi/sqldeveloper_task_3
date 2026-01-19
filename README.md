@@ -16,6 +16,6 @@ To understand and implement **SQL data filtering techniques** using:
 - SQL (MySQL)
 
 ## Repository Contents
-`database.sql`- contain the database on which filter is done
-`task_3_queries.sql` – Complete task submission with queries
-`README.md` – Description of the task
+- `database.sql`- contain the database on which filter is done
+- `task_3_queries.sql` – Complete task submission with queries
+- `README.md` – Description of the task
