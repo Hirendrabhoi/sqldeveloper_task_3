@@ -1,7 +1,7 @@
 # Task 3 – SQL Filtering
 
 ## Description
-The PDF demonstrates how to filter data in SQL using different conditions and operators.
+How to filter data in SQL using different conditions and operators.
 
 ## Task Objective
 To understand and implement **SQL data filtering techniques** using:
